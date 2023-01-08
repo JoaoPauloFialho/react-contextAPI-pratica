@@ -1,0 +1,14 @@
+.header{
+    display: flex;
+    justify-content: space-around;
+    height: 4rem;
+    align-items: center;
+    background-color: grey;
+    margin-bottom: 5rem;
+}
+
+.header p{
+    font-weight: 2rem;
+    color: black;
+    font-weight: bold;
+}

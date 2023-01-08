@@ -1,0 +1,36 @@
+.login{
+    margin-top: 4rem;
+    height: 29.2vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    row-gap: 1rem;
+}
+
+.login p{
+    width: 1.4rem;
+    color: black;
+}
+
+.login input{
+    background-color: #5a5a5a;
+    border-bottom: solid 2px black;
+    width: 50%;
+    height: 2rem;
+    color: white;
+}
+
+.button{
+    font-size: 1.2rem;
+    background-color: #5a5a5a;
+    border: black solid 1px;
+    height: 2rem;
+    width: 6rem;
+    border-radius: 14px;
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+.button:hover{
+    background-color: aliceblue;
+}

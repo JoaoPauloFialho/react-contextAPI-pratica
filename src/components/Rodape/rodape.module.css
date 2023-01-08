@@ -1,0 +1,14 @@
+.rodape{
+    background-color: grey;
+    display: flex;
+    height: 4rem;
+    padding: 1rem;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 2rem;
+}
+
+.rodape p{
+    color: black;
+    font-size: 1.3rem;
+}

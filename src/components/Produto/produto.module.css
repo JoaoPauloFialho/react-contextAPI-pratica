@@ -1,0 +1,27 @@
+.produto{
+    display: flex;
+    width: 50%;
+    background-color: rgb(211, 211, 211);
+    align-items: center;
+    padding: 1rem;
+    column-gap: 3rem;
+}
+
+.subtrai{
+    color: red;
+    cursor: pointer;
+    font-size: 1.3rem;
+}
+
+.soma{
+    color: green;
+    cursor: pointer;
+    font-size: 1.3rem;
+}
+
+.dados{
+    display: flex;
+    column-gap: 2rem;
+    width: 50%;
+}
+

@@ -1,0 +1,12 @@
+.carrinho{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    row-gap: 2rem;
+}
+
+.carrinho button{
+    height: 3rem;
+}
+
